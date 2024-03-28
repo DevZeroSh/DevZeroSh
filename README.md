@@ -17,9 +17,9 @@ I'm Mohammed, a passionate software developer and 3D enthusiast. Welcome to my G
 
 ## 📂 Projects
 - [[NKU]](https://mohmmadshahror.itch.io/nku) A first-person war game that I made while I was in university
-- [Foxs Tale] (https://mohmmadshahror.itch.io/foxs-tale) My first project in 2D games
-- [judy invest] (https://judyinvest.com) judy invest webSite
-- [Noontek] (https://www.noontek.net/) Noontek webSite
+- [Foxs Tale](https://mohmmadshahror.itch.io/foxs-tale) My first project in 2D games
+- [judy invest](https://judyinvest.com) judy invest webSite
+- [Noontek](https://www.noontek.net/) Noontek webSite
 
 
 ## 📫 How to Reach Me
