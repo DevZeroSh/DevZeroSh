@@ -16,10 +16,10 @@ I'm Mohammed, a passionate software developer and 3D enthusiast. Welcome to my G
 - **3D Modeling:** SketchUp
 
 ## 📂 Projects
-- [[Project 1](Link to Project 1) ](https://mohmmadshahror.itch.io/nku) A first-person war game that I made while I was in university
-- [Project 2](Link to Project 2) (https://mohmmadshahror.itch.io/foxs-tale) My first project in 2D games
-- [Project 3](Link to Project 3) (https://judyinvest.com) judy invest webSite
-- [Project 4](Link to Project 4) (https://www.noontek.net/) Noontek webSite
+- [[NKU]](https://mohmmadshahror.itch.io/nku) A first-person war game that I made while I was in university
+- [Foxs Tale] (https://mohmmadshahror.itch.io/foxs-tale) My first project in 2D games
+- [judy invest] (https://judyinvest.com) judy invest webSite
+- [Noontek] (https://www.noontek.net/) Noontek webSite
 
 
 ## 📫 How to Reach Me
