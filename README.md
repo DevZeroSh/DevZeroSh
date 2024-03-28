@@ -4,7 +4,7 @@ I'm Mohammed, a passionate software developer and 3D enthusiast. Welcome to my G
 
 ## 🚀 About Me
 - 🎓 graduated from Namik kemal university.
-- 💼 I'm working as a Web Developer] at Smartinb.
+- 💼 I'm working as a Web Developer at Smartinb.
 - 🌱 I'm constantly learning and exploring new technologies.
 - 📚 In my free time, I love to work on side projects and expand my skill set.
 
