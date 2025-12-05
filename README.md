@@ -21,7 +21,7 @@ I'm Mohammed, a passionate software developer and 3D enthusiast. Welcome to my G
 - [judy invest](https://judyinvest.com) judy invest webSite
 - [Noontek](https://www.noontek.net/) Noontek webSite
 - [soonKitcheb](https://soonkitchen.co) soonKitcheb 30%
-- [ERP](https://smartinb.com) Smart ERP System 
+- [ERP](https://smartinb.ai) Smart ERP System 
 
 
 ## 📫 How to Reach Me
