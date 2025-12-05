@@ -9,8 +9,8 @@ I'm Mohammed, a passionate software developer and 3D enthusiast. Welcome to my G
 - 📚 In my free time, I love to work on side projects and expand my skill set.
 
 ## 🛠️ Skills
-- **Programming Languages:** C#, JavaScript
-- **Web Development:** React.js, Node.js
+- **Programming Languages:** C#, JavaScript, PHP
+- **Web Development:** MERN
 - **Databases:** MySQL, MongoDB, MSSQL
 - **Game Development:** Unity
 - **3D Modeling:** SketchUp
@@ -21,6 +21,7 @@ I'm Mohammed, a passionate software developer and 3D enthusiast. Welcome to my G
 - [judy invest](https://judyinvest.com) judy invest webSite
 - [Noontek](https://www.noontek.net/) Noontek webSite
 - [soonKitcheb](https://soonkitchen.co) soonKitcheb 30%
+- [ERP](https://smartinb.com) Smart ERP System 
 
 
 ## 📫 How to Reach Me
