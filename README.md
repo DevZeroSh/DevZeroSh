@@ -18,7 +18,9 @@ I'm Mohammed, a passionate software developer and 3D enthusiast. Welcome to my G
 ## 📂 Projects
 - [NKU](https://mohmmadshahror.itch.io/nku) A first-person war game that I made while I was in university
 - [Foxs Tale](https://mohmmadshahror.itch.io/foxs-tale) My first project in 2D games
-- [ERP](https://smartinb.ai) Smart ERP System 
+- [Chef Game]() Chef Games  
+- [ERP](https://smartinb.ai) Smart ERP System
+- [POS]() POS System
 
 
 ## 📫 How to Reach Me
