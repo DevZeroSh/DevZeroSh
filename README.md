@@ -11,7 +11,7 @@ I'm Mohammed, a passionate software developer and 3D enthusiast. Welcome to my G
 ## 🛠️ Skills
 - **Programming Languages:** C#, JavaScript, PHP
 - **Web Development:** MERN
-- **Databases:** MySQL, MongoDB, MSSQL
+- **Databases:** MySQL, MSSQL, SQLLITE, MongoDB,
 - **Game Development:** Unity
 - **3D Modeling:** SketchUp
 
